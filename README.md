@@ -1,16 +1,7 @@
-# quiz
+# Random Quiz App
 
-A new Flutter project.
+It's a Random Quiz App programmend in Dart Flutter for both iOS & Android. 
+A splash screen along with app icon is added to the app and a great combination of colors is used.
+You guys can edit the questions in your projects once you clone it.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
