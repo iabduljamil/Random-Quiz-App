@@ -27,10 +27,10 @@ class MyAppState extends State<MyApp> {
   }
 
   List<String> questions = [
-    "Are you Applicatoin Developer ?",
-    "Do you like to work on flutter ?",
+    "Are you Programmer ?",
+    "Do you like to work on .net framework?",
     "Do you like to work on .Net framework ?",
-    "Are you a tech enthusiast ?"
+    "Are you a techie person ?"
   ];
 
   void next() {
